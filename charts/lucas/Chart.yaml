@@ -1,7 +1,7 @@
 apiVersion: v2
 name: lucas
 description: A Helm chart for Kubernetes
-
+icon: https://cdn-icons.flaticon.com/png/512/246/premium/246755.png?token=exp=1639012510~hmac=c34f45169dff76c493fd22cf4a5345e1
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
